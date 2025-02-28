@@ -1,4 +1,4 @@
-Generative AI Product Placement
+
 This project is a Generative AI tool that automatically places e-commerce product images into realistic lifestyle scenes. It seamlessly integrates product images while preserving details, scale, and perspective.
 
 📌 Features
