@@ -33,8 +33,7 @@ Meta AI and runs using **free and open-source tools**.
 **1️. Clone the GitHub Repository**
 
 git clone
-https://github.com/Hetakshi007/Studio11Productions
-cd Generative-AI-Product-Placement
+https://github.com/Hetakshi007/Studio11Productions 
 
 **2️. Install Dependencies**
 
