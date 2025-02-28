@@ -36,8 +36,4 @@ You can also run the project directly on Google Colab without installing depende
 
 ✅ Output Example
 The tool will generate an output image where the product is realistically placed in the lifestyle scene.
-________________________________________
-📝 Notes:
-•	Ensure the sample and lifestyle images are correctly named and located in the working directory.
-•	Modify the placement coordinates in the script if adjustments are needed.
-🔹 Created as part of the AI Internship at Studio 11 Productions.
+
