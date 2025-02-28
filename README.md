@@ -33,8 +33,7 @@ Meta AI and runs using **free and open-source tools**.
 **1️. Clone the GitHub Repository**
 
 git clone
-https://colab.research.google.com/drive/1k99KmcSiqBC0w6AMIxCluOzsPtOwDlQS
-
+https://github.com/Hetakshi007/Studio11Productions
 cd Generative-AI-Product-Placement
 
 **2️. Install Dependencies**
@@ -68,6 +67,6 @@ python studio11.py
 <!-- -->
 ```
 -   **GitHub Repository:**
-    https://colab.research.google.com/drive/1k99KmcSiqBC0w6AMIxCluOzsPtOwDlQS
+    https://github.com/Hetakshi007/Studio11Productions
 
 -   **Submission Format:** .ipynb and .py files uploaded to GitHub.
